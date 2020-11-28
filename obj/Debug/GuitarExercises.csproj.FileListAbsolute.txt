@@ -1,0 +1,14 @@
+C:\Users\josea\source\repos\GuitarExercises\obj\Debug\GuitarExercises.csprojAssemblyReference.cache
+C:\Users\josea\source\repos\GuitarExercises\obj\Debug\GuitarExercises.Form1.resources
+C:\Users\josea\source\repos\GuitarExercises\obj\Debug\GuitarExercises.Properties.Resources.resources
+C:\Users\josea\source\repos\GuitarExercises\obj\Debug\GuitarExercises.csproj.GenerateResource.cache
+C:\Users\josea\source\repos\GuitarExercises\obj\Debug\GuitarExercises.csproj.CoreCompileInputs.cache
+C:\Users\josea\source\repos\GuitarExercises\bin\Debug\GuitarExercises.exe.config
+C:\Users\josea\source\repos\GuitarExercises\bin\Debug\GuitarExercises.exe
+C:\Users\josea\source\repos\GuitarExercises\bin\Debug\GuitarExercises.pdb
+C:\Users\josea\source\repos\GuitarExercises\obj\Debug\GuitarExercises.exe
+C:\Users\josea\source\repos\GuitarExercises\obj\Debug\GuitarExercises.pdb
+C:\Users\josea\source\repos\GuitarExercises\bin\Debug\GuitarExercises.exe.manifest
+C:\Users\josea\source\repos\GuitarExercises\bin\Debug\GuitarExercises.application
+C:\Users\josea\source\repos\GuitarExercises\obj\Debug\GuitarExercises.exe.manifest
+C:\Users\josea\source\repos\GuitarExercises\obj\Debug\GuitarExercises.application

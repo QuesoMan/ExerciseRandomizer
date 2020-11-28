@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfExerciseObject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ExerciseObject>
+    <NameOfExercise>Legato</NameOfExercise>
+    <Tempo>NA</Tempo>
+    <Description>Actually legato, just do it</Description>
+  </ExerciseObject>
+  <ExerciseObject>
+    <NameOfExercise>8th note DS</NameOfExercise>
+    <Tempo>155</Tempo>
+    <Description>only down strokes, only 8th notes</Description>
+  </ExerciseObject>
+</ArrayOfExerciseObject>
